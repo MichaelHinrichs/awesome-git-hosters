@@ -32,6 +32,7 @@ git hosting, git services, git providers, git websites, gitea instances, forgejo
 
 - https://git.dev-hub.eu/
 - based on [gitea](https://github.com/go-gitea/gitea)
+- repos are "internal" so not visible to the public
 
 ### notabug.org
 
