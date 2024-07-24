@@ -79,6 +79,11 @@ git hosting, git services, git providers, git websites, gitea instances, forgejo
 - https://pagure.io/
 - based on [pagure](https://pagure.io/pagure)
 
+### git.gay
+
+- https://git.gay/
+- based on [Forgejo+gay](https://git.gay/gitgay/forgejo), a fork of [forgejo](https://codeberg.org/forgejo/forgejo)
+
 ## see also
 
 - https://github.com/go-gitea/website/issues/70 - List of gitea hoster (with free signup)
