@@ -62,6 +62,12 @@ git hosting, git services, git providers, git websites, gitea instances, forgejo
 - aka "sourcehut"
 - based on [sr.ht](https://git.sr.ht/~sircmpwn/?search=sr.ht)
 
+### torproject gitlab
+
+- https://gitlab.torproject.org
+- based on [gitlab](https://github.com/gitlabhq/gitlabhq)
+- owned by [Tor Project](https://www.torproject.org)
+
 ### darktea onion
 
 - http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/
