@@ -79,6 +79,11 @@ git hosting, git services, git providers, git websites, gitea instances, forgejo
 - https://pagure.io/
 - based on [pagure](https://pagure.io/pagure)
 
+### dev.funkwhale.audio
+- https://dev.funkwhale.audio/
+- based on [gitlab](https://github.com/gitlabhq/gitlabhq)
+- owned by Funkwhale
+
 ## see also
 
 - https://github.com/go-gitea/website/issues/70 - List of gitea hoster (with free signup)
