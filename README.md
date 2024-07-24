@@ -79,6 +79,11 @@ git hosting, git services, git providers, git websites, gitea instances, forgejo
 - https://pagure.io/
 - based on [pagure](https://pagure.io/pagure)
 
+### beanstalk
+
+- https://beanstalkapp.com/
+- owned by [Wildbit](https://wildbit.com)
+
 ## see also
 
 - https://github.com/go-gitea/website/issues/70 - List of gitea hoster (with free signup)
