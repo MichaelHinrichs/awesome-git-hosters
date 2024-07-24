@@ -79,6 +79,12 @@ git hosting, git services, git providers, git websites, gitea instances, forgejo
 - https://pagure.io/
 - based on [pagure](https://pagure.io/pagure)
 
+### gitdab
+
+- https://gitdab.com/
+- based on [forgejo](https://codeberg.org/forgejo/forgejo), a [non-profit](https://forgejo.org/faq/#why-was-forgejo-created) fork of gitea
+- owned by [LavaTech](https://lavatech.top/)
+
 ## see also
 
 - https://github.com/go-gitea/website/issues/70 - List of gitea hoster (with free signup)
