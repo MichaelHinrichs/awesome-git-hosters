@@ -79,6 +79,10 @@ git hosting, git services, git providers, git websites, gitea instances, forgejo
 - https://pagure.io/
 - based on [pagure](https://pagure.io/pagure)
 
+### jennierose.codes
+- https://jennierose.codes/gitea/
+- based on [gitea](https://github.com/go-gitea/gitea)
+
 ## see also
 
 - https://github.com/go-gitea/website/issues/70 - List of gitea hoster (with free signup)
